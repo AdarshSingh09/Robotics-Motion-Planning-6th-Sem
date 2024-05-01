@@ -1,6 +1,5 @@
 """
 Batch Informed Trees (BIT*)
-@author: huiming zhou
 """
 
 import os
